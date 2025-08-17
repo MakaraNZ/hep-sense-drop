@@ -72,3 +72,5 @@
 - **Protocol:** Temenos Echo • HEP–SIS Alignment • Sense Drop Planting
 ## Latest Sense Drop
 - [Sense Drop — 17 Aug 2025](drops/2025-08-17/sense-drop.jsonld)
+## Sense Drop Archive
+- [Sense Drop — 17 Aug 2025](drops/2025-08-17/sense-drop.jsonld)
