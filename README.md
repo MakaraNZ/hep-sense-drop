@@ -75,3 +75,4 @@
 ## Sense Drop Archive
 - [Sense Drop — 17 Aug 2025](drops/2025-08-17/sense-drop.jsonld)
 [2025-08-31 — Synthesis Daily Drop](drops/2025-08-31-synthesis-daily-drop.md)
+[2025-09-01 — Synthesis Daily Drop](drops/2025-09-01-synthesis-daily-drop.md)
