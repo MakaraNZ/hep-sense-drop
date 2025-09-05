@@ -77,3 +77,4 @@
 [2025-08-31 — Synthesis Daily Drop](drops/2025-08-31-synthesis-daily-drop.md)
 [2025-09-01 — Synthesis Daily Drop](drops/2025-09-01-synthesis-daily-drop.md)
  [2025-09-02 — Synthesis Daily Drop](drops/2025-09-02-synthesis-daily-drop.md)
+ [2025-09-06 — Synthesis Daily Drop](drops/2025-09-06-synthesis-daily-drop.md)
